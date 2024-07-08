@@ -1,0 +1,14 @@
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\PooExamples.exe
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\PooExamples.deps.json
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\PooExamples.runtimeconfig.json
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\PooExamples.dll
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\PooExamples.pdb
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\PooExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\PooExamples.AssemblyInfoInputs.cache
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\PooExamples.AssemblyInfo.cs
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\PooExamples.csproj.CoreCompileInputs.cache
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\PooExamples.dll
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\PooExamples.dll
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\PooExamples.pdb
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\PooExamples.genruntimeconfig.cache
+C:\Users\jl-19\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\PooExamples.dll
